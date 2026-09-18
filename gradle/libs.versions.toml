@@ -87,7 +87,7 @@ log4j2 = "2.26.0"
 maven-xml-impl = "4.0.0-beta-5"
 yarn = "1.22.22"
 # This is also the version of bouncycastle that is used by KGP
-bouncycastle = "1.84"
+bouncycastle = "1.86"
 kotlin-before-bta-v2 = "2.2.21"
 bytebuddy = "1.18.9"
 playwright = "1.60.0"
